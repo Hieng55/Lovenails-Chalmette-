@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - /bin/mkdir -p /home/lovenail/public_html
+    - /bin/cp -a dist/. /home/lovenail/public_html/
