@@ -35,7 +35,7 @@ if (footerTarget) {
         <div><h3>Quick Links</h3><a href="index.html">Home</a><a href="about.html">About Us</a><a href="services.html">Services</a><a href="gallery.html">Gallery</a><a href="contact.html">Contact</a></div>
         <div><h3>Book Appointment</h3><p>Walk-ins welcome or book your appointment online.</p><a class="footer-book" href="${bookingUrl}" target="_blank" rel="noopener">Book Now</a></div>
       </div>
-      <div class="copyright">© <span data-year></span> Love Nails Chalmette. All rights reserved.</div>
+      <div class="copyright">© <span data-year></span> Love Nails Chalmette. All rights reserved by TD TRANSACTIONS LLC</div>
     </footer>
     <a class="mobile-book" href="${bookingUrl}" target="_blank" rel="noopener">Book Appointment</a>`;
 }
