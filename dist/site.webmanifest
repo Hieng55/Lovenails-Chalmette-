@@ -1,0 +1,17 @@
+{
+  "name": "Love Nails Chalmette",
+  "short_name": "Love Nails",
+  "description": "Nail salon offering manicures, pedicures, nail enhancements, lashes, brows, and waxing in Chalmette, Louisiana.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#394631",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "953x954",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

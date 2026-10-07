@@ -12,10 +12,10 @@ if (headerTarget) {
       <a href="https://www.instagram.com/lovenails.chalmette/" target="_blank" rel="noopener"><img class="social-icon" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/instagram/default.svg" alt="" /><span>Follow us</span></a>
     </div>
     <header class="site-header">
-      <a class="brand" href="index.html" aria-label="Love Nails Chalmette home"><img src="assets/logo.png" alt="Love Nails Lashes and Brows" /></a>
+      <a class="brand" href="./" aria-label="Love Nails Chalmette home"><img src="assets/logo.png" alt="Love Nails Lashes and Brows" /></a>
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation"><span></span><span></span><span></span></button>
       <nav id="site-nav" aria-label="Main navigation">
-        <a class="${activePage === "home" ? "active" : ""}" href="index.html">Home</a>
+        <a class="${activePage === "home" ? "active" : ""}" href="./">Home</a>
         <a class="${activePage === "about" ? "active" : ""}" href="about.html">About Us</a>
         <a class="${activePage === "services" ? "active" : ""}" href="services.html">Services</a>
         <a class="${activePage === "gallery" ? "active" : ""}" href="gallery.html">Gallery</a>
@@ -32,7 +32,7 @@ if (footerTarget) {
       <div class="footer-grid">
         <div class="footer-brand"><img src="assets/logo.png" alt="Love Nails Lashes and Brows" /><p>Where beauty feels calm, clean, and luxurious.</p><div class="footer-social"><a href="https://www.instagram.com/lovenails.chalmette/" target="_blank" rel="noopener" aria-label="Instagram"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/instagram/default.svg" alt="" /></a><a href="https://www.facebook.com/LoveNailsLashesandBrows" target="_blank" rel="noopener" aria-label="Facebook"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/facebook/default.svg" alt="" /></a><a href="${mapUrl}" target="_blank" rel="noopener" aria-label="Google Maps"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-maps/default.svg" alt="" /></a></div></div>
         <div><h3>Contact Us</h3><a href="${mapUrl}" target="_blank" rel="noopener">1916 E Judge Perez Dr<br />Chalmette, LA 70043</a><a href="tel:+15042184059">+1 504-218-4059</a><p>Mon–Thu: 9:30 AM–6 PM<br />Fri–Sat: 9 AM–6 PM<br />Sun: Closed</p></div>
-        <div><h3>Quick Links</h3><a href="index.html">Home</a><a href="about.html">About Us</a><a href="services.html">Services</a><a href="gallery.html">Gallery</a><a href="contact.html">Contact</a></div>
+        <div><h3>Quick Links</h3><a href="./">Home</a><a href="about.html">About Us</a><a href="services.html">Services</a><a href="gallery.html">Gallery</a><a href="contact.html">Contact</a></div>
         <div><h3>Book Appointment</h3><p>Walk-ins welcome or book your appointment online.</p><a class="footer-book" href="${bookingUrl}" target="_blank" rel="noopener">Book Now</a></div>
       </div>
       <div class="copyright">© <span data-year></span> Love Nails Chalmette. All rights reserved by TD TRANSACTIONS LLC</div>
